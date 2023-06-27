@@ -4,6 +4,15 @@ body {
 
 #img1 {
     border: 5px solid white;
+    margin-left: 25%;
+    margin-right: 25%;
+    
 }
+   
 
+#div1 {
+    width: 50%;
+    margin-left:25px;
+    padding: 25px;
+}
 
