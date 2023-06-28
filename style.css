@@ -1,15 +1,27 @@
 body {
     background-color: black;
 }
-
-#img1 {
-    border: 5px solid white;    
-}
-   
-
 #div1 {
     width: 50%;
-    margin:auto;
-    padding: 25px;
+    margin-left: 25%;
+    width: 50%;
+}
+
+#img1 {
+    border: 5px solid white;
+    
+    width: 100%;
+    
+}
+   
+p {
+    text-align: center;
+    color:white;  
+}
+#h1element {
+    text-transform:uppercase;
+    font-family: Libre_Baskerville variant0, Tofu;
+    text-align: center;
+
 }
 
