@@ -5,6 +5,7 @@ body {
     width: 50%;
     margin-left: 25%;
     width: 50%;
+    margin-top: 90px;
 }
 
 #img1 {
@@ -20,8 +21,9 @@ p {
 }
 #h1element {
     text-transform:uppercase;
-    font-family: Libre_Baskerville variant0, Tofu;
+    font-family: Libre_Baskerville variant0, serif;
     text-align: center;
+    font-size: 3rem;
 
 }
 
